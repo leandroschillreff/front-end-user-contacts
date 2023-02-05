@@ -9,7 +9,8 @@
   - [Run the project](#23-run-the-project)
 - [Quick Start Using Docker](#3-quick-start-using-docker)
   - [Clone repository](#31-clone-this-repository)
-  - [Settings for running docker](#32-settings-for-running-docker)
+  - [Install the dependencies](#32-install-the-dependencies)
+  - [Settings for running docker](#33-settings-for-running-docker)
 - [Endpoints](#5-endpoints)
 
 ---
@@ -56,7 +57,7 @@
 
 ```shell
 git clone https://github.com/leandroschillreff/front-end-user-contacts.git
-cd back-end-user-contacts
+cd front-end-user-contacts
 ```
 
 ### 2.2 Install the dependencies
@@ -81,10 +82,17 @@ yarn start
 
 ```shell
 git clone https://github.com/leandroschillreff/front-end-user-contacts.git
-cd back-end-user-contacts
+cd front-end-user-contacts
 ```
 
-### 3.2 Settings for running docker
+
+### 3.2 Install the dependencies
+
+```shell
+yarn
+```
+
+### 3.3 Settings for running docker
 
 1. To start and restart all services defined in docker-compose.yml
 
