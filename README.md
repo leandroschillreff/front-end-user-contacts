@@ -28,6 +28,24 @@
 - [React Router](https://reactrouter.com/en/main)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
+## 1.1 Login
+
+<p align="center">
+    <img src="src/assets/login.png"/>
+</p>
+
+## 1.2 Register
+
+<p align="center">
+    <img src="src/assets/register.png"/>
+</p>
+
+## 1.3 DashBoard
+
+<p align="center">
+    <img src="src/assets/dashboard.png"/>
+</p>
+
 ---
 
 ## 2. Quick Start
