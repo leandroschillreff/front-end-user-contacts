@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  front:
+    container_name: front_user_contacts
+    build: .
+    ports:
+      - 3000:3000
+    command: bash -c "yarn start"
+    volumes:
+      - .:/user_contacts_app
